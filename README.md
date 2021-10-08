@@ -5,9 +5,9 @@
 - Studying Computer Science 
 - I'm currently building projects and teaching as well
 - GDSC @ Catholic University
-- Love Free-Software and sharing :)
-- Best Introvert ever X)
-- Love Jesus
+- Love Free-Software and sharing 🤩
+- Best Introvert ever 🥱
+- Love Jesus 
 
 ### Interests 🥳🥳🥳
 - Food //especially banku && kenkey 
@@ -23,11 +23,7 @@
 - Paul Allen ****
 - Thomas Edison ****
 
-## Favs
-- Mabel 
-- Emelia
-- Malik 
-- Charles
-- Audy
-- lisa
-- Aseda
+@ all Socila Media
+```
+@profnird
+```
