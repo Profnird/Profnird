@@ -1,3 +1,5 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photo%2Fflag-ghana_1179361.htm&psig=AOvVaw2PtpQjLtVl4U9PzME_JlSB&ust=1633772421750000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiYpau1uvMCFQAAAAAdAAAAABAO
+
 # Akwaaba ! I am Nird
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 
