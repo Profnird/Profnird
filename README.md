@@ -24,7 +24,7 @@
 - Thomas Edison ****
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://github.com/Profnird.m.pipedream.net)
 
 @ all Socila Media
 ```
