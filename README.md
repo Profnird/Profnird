@@ -23,7 +23,8 @@
 - Paul Allen ****
 - Thomas Edison ****
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 @ all Socila Media
 ```
