@@ -1,5 +1,3 @@
-![Test Image 7](https://github.com/Profnird/Profnird/blob/main/flag-ghana_1401-120.jpg)
-
 # Akwaaba ! I am Nird
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 
