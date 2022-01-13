@@ -34,7 +34,8 @@
 [![NodeJS Badge](https://img.shields.io/badge/-Electron-47848F?logo=electron&style=flat-square&labelColor=47848F&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Python-47848F?logo=python&style=flat-square&labelColor=47848F&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Php-47848F?logo=php&style=flat-square&labelColor=47848F&logoColor=white)]
-[![NodeJS Badge](https://img.shields.io/badge/-C#-61DAFB?logo=csharp&style=flat-square&labelColor=61DAFB&logoColor=white)]
+[![NodeJS Badge](https://img.shields.io/badge/-Csharp-61DAFB?logo=csharp&style=flat-square&labelColor=61DAFB&logoColor=white)]
+[![NodeJS Badge](https://img.shields.io/badge/-R-61DAFB?logo=r&style=flat-square&labelColor=61DAFB&logoColor=white)]
 @ all Socila Media
 ```
 @profnird
