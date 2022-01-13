@@ -28,13 +28,13 @@
 
 ## Fullstack Dev
 
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=node&style=flat-square&labelColor=339933&logoColor=white)]
+[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=nodejs&style=flat-square&labelColor=339933&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=flat-square&labelColor=F7DF1E&logoColor=black)]
 [![NodeJS Badge](https://img.shields.io/badge/-Electron-47848F?logo=electron&style=flat-square&labelColor=47848F&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Python-47848F?logo=python&style=flat-square&labelColor=47848F&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Php-47848F?logo=php&style=flat-square&labelColor=47848F&logoColor=white)]
-
+[![NodeJS Badge](https://img.shields.io/badge/-C#-61DAFB?logo=csharp&style=flat-square&labelColor=61DAFB&logoColor=white)]
 @ all Socila Media
 ```
 @profnird
