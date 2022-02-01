@@ -6,7 +6,7 @@
 - I'm currently building projects and teaching as well
 - GDSC @ Catholic University
 - Love Free-Software and sharing 🤩
-- Best Introvert ever 🥱
+- Introvert ever 🥱
 - Love Jesus 
 
 ### Interests 🥳🥳🥳
