@@ -1,8 +1,12 @@
 # Akwaaba ! I am Nird
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<div>
+<img align='right' src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="230">
 <p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+</div>
+
 - Student @ Catholic University
 - Studying Computer Science 
 - I'm currently building projects and teaching as well
