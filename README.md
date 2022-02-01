@@ -2,7 +2,7 @@
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 <div>
 <img align='right' src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="230">
-<p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 </div>
