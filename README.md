@@ -10,7 +10,7 @@
 - Student @ Catholic University
 - Studying Computer Science 
 - I'm currently building projects and teaching as well
-- GDSC @ Catholic University
+- GDSC Lead @ Catholic University
 - Love Free-Software and sharing 🤩
 - Introvert ever 🥱
 - Love Jesus 
