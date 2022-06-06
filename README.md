@@ -12,13 +12,13 @@
 - I'm currently building projects and teaching as well
 - GDSC Lead @ Catholic University
 - Love Free-Software and sharing 🤩
-- Introvert ever 🥱
+- Total Introvert 🥱
 - Love Jesus 
 
 ### Interests 🥳🥳🥳
-- Food //especially banku && kenkey 
-- Dancing 
-- Theology, Science, Electronics
+- Food // Cooking
+- Dancing , Poetry
+- Politics, Business ,Theology, Science, Electronics
 - reading and writing
 - wildlife
 - I hate Cats 🐈  && Dogs 🐕
@@ -26,7 +26,7 @@
 ### Mentors 🤠🤠
 - Linus Torvalds *****
 - Bill Gates ****
-- Paul Allen ****
+- Paul Allen ***
 - Thomas Edison ****
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
