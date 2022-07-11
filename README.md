@@ -44,7 +44,7 @@
 [![NodeJS Badge](https://img.shields.io/badge/-Csharp-61DAFB?logo=csharp&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-R-61DAFB?logo=r&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Arduino-61DAFB?logo=arduino&style=flat-square&labelColor=61DAFB&logoColor=white)]
-[![NodeJS Badge](https://img.shields.io/badge/-Rust-61DAFB?logo=arduino&style=flat-circle&labelColor=61DAFB&logoColor=white)]
+[![NodeJS Badge](https://img.shields.io/badge/-Rust-61DAFB?logo=rust&style=flat-circle&labelColor=61DAFB&logoColor=white)]
 @ all Socila Media
 ```
 @profnird
