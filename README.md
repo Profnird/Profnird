@@ -15,6 +15,14 @@
 - Total Introvert 🥱
 - Love Jesus 
 
+@@@ Startups & Business
+- nirdteq
+- cheddar
+- culkya
+- nirdanimate
+
+vlog/blog ### coming soon => nird.io
+
 ### Interests 🥳🥳🥳
 - Food // Cooking
 - Dancing , Poetry
