@@ -21,7 +21,7 @@
 - culkya
 - nirdanimate
 
-vlog/blog ### coming soon => nird.io
+vlog/blog ### started => nird.io
 
 ### Interests 🥳🥳🥳
 - Food // Cooking
