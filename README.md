@@ -6,20 +6,22 @@
 </em></p>
 
 </div>
-
 - Student @ Catholic University
 - Studying Computer Science 
+- Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
 - I'm currently building projects and teaching as well
-- GDSC Lead @ Catholic University
+- Ex GDSC Lead @ Catholic University
 - Love Free-Software and sharing 🤩
 - Total Introvert 🥱
 - Love Jesus 
 
-@@@ Startups & Business
+@@@ Startups & Business & Projects
 - nirdteq
 - cheddar
 - culkya
 - nirdanimate
+- xleidy
+- biashara
 
 vlog/blog ### started => nird.io
 
