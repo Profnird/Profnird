@@ -6,7 +6,7 @@
 </em></p>
 </div>
 
-- Studying Computer Science 
+- Studying Computer Science (Graduating Student)
 - Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
 - I'm currently building projects and teaching as well
 - Ex GDSC Lead @ Catholic University
