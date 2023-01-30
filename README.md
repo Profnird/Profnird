@@ -2,14 +2,11 @@
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 <div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
-  <b>Sensational<b/> <br>
-  <p><img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' /><p>
 </div>
-<div>
-  
+
+<div>  
 <p>
-  
-### Short Info
+### Info
 
 - Studying Computer Science (Graduating Student)
 - Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
@@ -88,6 +85,6 @@ vlog/blog ### started => nird.io
 </p>
 
 <div>
-  Programming in the form of Music ... You feel it ? <br>
+  You feel it ? <br>
   <img align='left' alt='Github' width='200px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
 </div>
