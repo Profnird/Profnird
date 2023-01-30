@@ -7,7 +7,6 @@
   <b>Sensational<b/> <br>
   <img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
 </div>
- /* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> */
 </em></p>
 </div>
 
