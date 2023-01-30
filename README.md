@@ -70,6 +70,7 @@ vlog/blog ### started => nird.io
 [![NodeJS Badge](https://img.shields.io/badge/-R-61DAFB?logo=r&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Arduino-61DAFB?logo=arduino&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Rust-61DAFB?logo=rust&style=flat-circle&labelColor=61DAFB&logoColor=white)]
+
 ```
  social media : @profnird and @nird.io
 ```
@@ -77,3 +78,6 @@ vlog/blog ### started => nird.io
  Eyes Looking <br>
   <img src="https://profile-counter.glitch.me/profnird/count.svg" />
 </p>
+
+
+<img align='left' alt='Github' width='26px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
