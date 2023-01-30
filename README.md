@@ -2,14 +2,12 @@
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 <div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230">
- <div>
   <b>Sensational<b/> <br>
   <img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
 </div>
-</div>
 <br>
 
-
+### Short Info
 
 - Studying Computer Science (Graduating Student)
 - Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
