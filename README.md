@@ -80,4 +80,4 @@ vlog/blog ### started => nird.io
 </p>
 
 
-<img align='left' alt='Github' width='26px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
+<img align='left' alt='Github' width='200px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
