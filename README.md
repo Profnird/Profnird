@@ -11,10 +11,13 @@
 - Love Free-Software and sharing 🤩
 - Total Introvert 🥱
 - Love Jesus 
+- 
 <div align='right'>
   <b>Sensational<b/> <br>
   <img align='right' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
 </div>
+  
+<div align='left'>
 @@@ Startups & Business & Projects
 - nirdteq
 - cheddar
@@ -22,7 +25,9 @@
 - nirdanimate
 - xleidy
 - biashara
-
+  </div>
+  
+  
 vlog/blog ### started => nird.io
 
 ### Interests 🥳🥳🥳
