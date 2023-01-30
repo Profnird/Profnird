@@ -3,7 +3,7 @@
 <div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230">
   <b>Sensational<b/> <br>
-  <img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
+  <p><img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' /><p>
 </div>
 <br>
 
