@@ -9,7 +9,7 @@
 </div>
 </em></p>
 </div>
-
+<br>
 - Studying Computer Science (Graduating Student)
 - Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
 - I'm currently building projects and teaching as well
