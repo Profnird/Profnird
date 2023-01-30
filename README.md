@@ -7,6 +7,8 @@
 </div>
 <br>
 
+<div>
+<p>
 ### Short Info
 
 - Studying Computer Science (Graduating Student)
@@ -16,7 +18,10 @@
 - Love Free-Software and sharing 🤩
 - Total Introvert 🥱
 - Love Jesus 
-
+  </p>
+  </div>  
+  <br>
+ 
 @@@ Startups & Business & Projects
 - nirdteq
 - cheddar
