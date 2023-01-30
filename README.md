@@ -2,7 +2,12 @@
 ## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
 <div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230">
-<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>
+ <div>
+  <b>Sensational<b/> <br>
+  <img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
+</div>
+ /* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> */
 </em></p>
 </div>
 
@@ -82,9 +87,4 @@ vlog/blog ### started => nird.io
 <div>
   Programming in the form of Music ... You feel it ? <br>
   <img align='left' alt='Github' width='200px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
-</div>
-<br>
-<div>
-  <b>Sensational<b/> <br>
-  <img align='left' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' style='padding-right:1000px;' />
 </div>
