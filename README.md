@@ -12,7 +12,7 @@
 - Total Introvert 🥱
 - Love Jesus 
 
-  <b align='right'>Sensational<b/> <br>
+  <b style="padding-left:1000px;" align='right'>Sensational<b/>
   <img align='right' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' />
   
 @@@ Startups & Business & Projects
