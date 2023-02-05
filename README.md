@@ -75,6 +75,12 @@ vlog/blog ### started => nird.io
 ```
  social media : @profnird and @nird.io
 ```
+
+<p>
+  I feel like a minion ? if so then follow me ! You can build your confidence here lol !
+<img align='left' alt='Github' width='100%' src='https://docs.nativebase.io/img/minion.gif' style='padding-right:1000px;' />
+</p>
+
 <p align="center"> 
  Eyes Looking <br>
   <img src="https://profile-counter.glitch.me/profnird/count.svg" />
@@ -84,4 +90,3 @@ vlog/blog ### started => nird.io
   You feel it ? <br>
   <img align='left' alt='Github' width='200px' src='https://media.giphy.com/media/3oEdU6U2i6DbHvFJAc/giphy.gif' style='padding-right:1000px;' />
 </div>
-<img align='left' alt='Github' width='200px' src='https://docs.nativebase.io/img/minion.gif' style='padding-right:1000px;' />
