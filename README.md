@@ -77,7 +77,7 @@ vlog/blog ### started => nird.io
 ```
 
 <p>
-  I feel like a minion ? if so then follow me ! You can build your confidence here lol !
+  You feel like a minion ? if so then follow me ! You can build your confidence here lol !
 <img align='left' alt='Github' width='100%' src='https://docs.nativebase.io/img/minion.gif' style='padding-right:1000px;' />
 </p>
 
