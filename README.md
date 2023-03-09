@@ -103,7 +103,7 @@ vlog/blog ### started => nird.io
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="C#" />
       </a>
       <br>Rust
     </td>
