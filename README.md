@@ -101,13 +101,25 @@ vlog/blog ### started => nird.io
       </a>
       <br>C#
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/rust-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Rust
+    </td>
   </tr>
   </table>                                                                                                                                      
   </div>    
                                                                                                                                             
                                                                                                                                            
                                                                                                                              
- ## 💖 Favorite Tools & Tech
+ ## :) Other Tech Stacks
 
 <div>
 <table>
@@ -126,12 +138,6 @@ vlog/blog ### started => nird.io
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
@@ -144,15 +150,9 @@ vlog/blog ### started => nird.io
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mui/mui-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>SAP
-    </td> 
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>BootStrap
+      <br>Mui
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -160,11 +160,23 @@ vlog/blog ### started => nird.io
       </a>
       <br>Django
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="jupyter" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-plain-wordmark.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Jupyter
+      <br>CouchDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dexiedb/dexiedb-plain-wordmark.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>DexieDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/electronjs/electronjs-plain-wordmark.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Electronjs
     </td>
   </tr>
                                                                                                                                              
@@ -186,6 +198,12 @@ vlog/blog ### started => nird.io
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Nextjs
     </td>
      <td align="center" width="96">
       <a href="#">
@@ -215,14 +233,8 @@ vlog/blog ### started => nird.io
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="ASP.Net" />
       </a>
-      <br>ASP.Net
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
-      </a>
-      <br>Raspberry Pi
-    </td>  
+      <br>.Net
+    </td> 
   </tr>
   
   
@@ -245,18 +257,6 @@ vlog/blog ### started => nird.io
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
-      </a>
-      <br>OpenGL
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" />
-      </a>
-      <br>Chrome
-    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
@@ -269,12 +269,6 @@ vlog/blog ### started => nird.io
       </a>
       <br>Anaconda
     </td>  
-     <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="48" height="48" alt="SQL Server" />
-      </a>
-      <br>SQL Server
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -290,19 +284,7 @@ vlog/blog ### started => nird.io
 
  
  
- ## 📘 My Repositories
-
-  
-<div align="right"> 
-<a href="https://github.com/ab007shetty/dj4e">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=dj4e&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a> 
-  
-<a href="https://github.com/ab007shetty/eclassroom-django">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=eclassroom-django&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</div>
+ ## 📘 My Repos
 <hr>
 
 
