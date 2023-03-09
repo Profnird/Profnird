@@ -286,7 +286,7 @@ vlog/blog ### started => nird.io
  
  ## 📘 My Repos
 <hr>
-
+<!-- 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -302,11 +302,11 @@ vlog/blog ### started => nird.io
 <img align="left" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
-
-
+ -->
+<br/>
 ## Fullstack Dev
 
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=nodejs&style=flat-square&labelColor=339933&logoColor=white)]
+<!-- [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=nodejs&style=flat-square&labelColor=339933&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-NextJS-339933?logo=nextjs&style=flat-square&labelColor=339933&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=flat-square&labelColor=F7DF1E&logoColor=black)]
@@ -317,7 +317,7 @@ vlog/blog ### started => nird.io
 [![NodeJS Badge](https://img.shields.io/badge/-R-61DAFB?logo=r&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Arduino-61DAFB?logo=arduino&style=flat-square&labelColor=61DAFB&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Rust-61DAFB?logo=rust&style=flat-circle&labelColor=61DAFB&logoColor=white)]
-
+ -->
 ```
  social media : @profnird and @nird.io
 ```
