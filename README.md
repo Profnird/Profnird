@@ -4,10 +4,10 @@
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
 
-- Studying Computer Science (Graduating Student)
-- Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY
+- Studied Computer Science (Graduated)
+- Ex Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY OF GHANA
 - I'm currently building projects and teaching as well
-- Ex GDSC Lead @ Catholic University
+- Ex GDSC Lead @ Catholic University of Ghana
 - Love Free-Software and sharing 🤩
 - Total Introvert 🥱
 - Love Jesus 
@@ -33,12 +33,14 @@ vlog/blog ### started => nird.io
 - love wildlife
 - I hate Cats 🐈  && Dogs 🐕
 
-### Mentors 🤠🤠
+### Models 🤠🤠
 - Kingsley Amankwa(Nird//myself) *******
 - Linus Torvalds *****
 - Bill Gates ****
 - Paul Allen ***
 - Thomas Edison ****
+- Nana Ama McBrown
+- Nana Kwame Ampadu
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
 
