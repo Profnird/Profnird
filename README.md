@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
 
-- Studied Computer Science (Graduated)
+- BSc Computer Science
 - Ex Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS) | CATHOLIC UNIVERSITY OF GHANA
 - I'm currently building projects and teaching as well
 - Ex GDSC Lead @ Catholic University of Ghana
