@@ -21,6 +21,8 @@
 - nirdanimate
 - xleidy
 - biashara
+- BlackGuild
+- HotSpot
   
   
 vlog/blog ### started => nird.io
