@@ -1,5 +1,5 @@
 # Akwaaba ! I am Nird
-## C.E.O @ nirdteq, Software Developer, Graphic Designer && System Technical Asst.
+## C.E.O @ nirdteq, Software Engineer, Graphic Designer *UI/UX && System Technical Asst.
 <div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
