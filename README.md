@@ -43,7 +43,7 @@ vlog/blog ### started => nird.io
 - Politics, Business ,Theology, Science, Electronics
 - reading and writing
 - love wildlife
-- I hate Cats 🐈  && Dogs 🐕
+- I love Cats 🐈
 
 ### Models 🤠🤠
 - Kingsley Amankwa(Nird//myself) *******
