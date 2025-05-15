@@ -1,6 +1,6 @@
 # Akwaaba ! I am Nird
 ### C.E.O @ nirdteq
->> Software Engineer, 
+> Software Engineer, 
 >> Graphic Designer 
 >> UI/UX 
 >> System Technical Asst.
