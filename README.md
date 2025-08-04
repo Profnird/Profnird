@@ -47,8 +47,7 @@ vlog/blog ### started => nird.io
 
 ### Models 🤠🤠
 - Kingsley Amankwa(Nird//myself) *********
-- Linus Torvalds *******
-- Peter Thiel ******
+- Linus Torvalds ******
 - Bill Gates ***
 - Paul Allen ***
 - Thomas Edison **
