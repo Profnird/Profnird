@@ -46,13 +46,14 @@ vlog/blog ### started => nird.io
 - I love Cats 🐈
 
 ### Models 🤠🤠
-- Kingsley Amankwa(Nird//myself) *******
-- Linus Torvalds *****
-- Bill Gates ****
+- Kingsley Amankwa(Nird//myself) *********
+- Linus Torvalds *******
+- Peter Thiel ******
+- Bill Gates ***
 - Paul Allen ***
-- Thomas Edison ****
-- Nana Ama McBrown
-- Nana Kwame Ampadu
+- Thomas Edison **
+- Nana Ama McBrown *
+- Nana Kwame Ampadu *
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
 
