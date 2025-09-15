@@ -8,11 +8,11 @@ System Technical Support Asst.
 
 ```
 <div>
-<img src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="230"><br>
+<img src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="100%"><br>
 </div>
 
 <div>
-<img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="100%"><br>
+<img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
 
 ## Philomath
