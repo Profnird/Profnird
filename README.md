@@ -8,6 +8,9 @@ System Technical Support Asst.
 
 ```
 <div>
+<img align='right' src="[https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmanhyiapalacemuseum.org%2Fnews-articles%2F&psig=AOvVaw1ggdwiV0ygK_1YbELJjScW&ust=1757981578129000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiPoO692Y8DFQAAAAAdAAAAABAE)" width="230"><br>
+</div>
+<div>
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
 
@@ -41,21 +44,26 @@ System Technical Support Asst.
 vlog/blog ### started => nird.io
 
 ### Interests 🥳🥳🥳
+```
 - Food // Cooking
 - Dancing , Poetry
 - Politics, Business ,Theology, Science, Electronics
 - reading and writing
 - love wildlife
 - I love Cats 🐈
+```
 
 ### Models 🤠🤠
-- Kingsley Amankwa(Nird//myself) *********
-- Linus Torvalds ******
-- Bill Gates ***
-- Paul Allen ***
-- Thomas Edison **
-- Nana Ama McBrown *
-- Nana Kwame Ampadu *
+```
+- Kingsley Amankwa(Nird)
+- Linus Torvalds
+- Warrent Buffet &  Charlie Munger
+- Bill Gates & Paul Allen
+- Thomas Edison
+- Nana Ama McBrown
+- Nana Kwame Ampadu
+
+```
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Profnird)
 
