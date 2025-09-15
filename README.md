@@ -8,7 +8,7 @@ System Technical Support Asst.
 
 ```
 <div>
-<img align='right' src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="230"><br>
+<img src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="230"><br>
 </div>
 
 <div>
