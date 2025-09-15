@@ -1,5 +1,5 @@
 # Akwaaba ! I am Nird
-### C.E.O @ nirdteq
+### C.E.O @ nirdteq | Co-founder @ xleidy.com
 ```
 Software Engineer, 
 Graphic Designer 
