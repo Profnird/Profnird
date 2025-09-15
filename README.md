@@ -15,7 +15,7 @@ System Technical Support Asst.
 <img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
 </div>
 
-# Philomath
+### Philomath
 
 - BSc Computer Science
 - Ex Faculty President @ FACULTY OF COMPUTING ENGINEERING AND MATHEMATICAL SCIENCES (CEMS)
@@ -28,7 +28,7 @@ System Technical Support Asst.
 
   <img align='right' alt='github' width='200px' src='https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif' />
 
-# Teaching myself : Data Science & Analytics , 2D (again lol) , Japenese
+### Teaching myself : Data Science & Analytics , 2D (again lol) , Japenese
   
 @@@ Startups & Business & Projects
 - nirdteq.com
