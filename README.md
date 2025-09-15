@@ -12,7 +12,7 @@ System Technical Support Asst.
 </div>
 
 <div>
-<img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="230"><br>
+<img align='right' src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="100%"><br>
 </div>
 
 ## Philomath
