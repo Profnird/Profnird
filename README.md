@@ -7,8 +7,8 @@ UI/UX
 System Technical Support Asst.
 
 ```
-<div hieght="200">
-<img src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="100%"><br>
+<div>
+<img src="https://manhyiapalacemuseum.org/media/2019/05/LOG-NEWW.png" width="50%"><br>
 </div>
 
 <div>
